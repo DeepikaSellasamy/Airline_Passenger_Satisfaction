@@ -20,3 +20,5 @@ Using R we can perform the analysis by the folowing ways:
      Predict the models with test data
      
      Checking the accuracy for the prediction
+
+![airlne](https://user-images.githubusercontent.com/122966157/213377209-d0b08b70-16d5-4aca-82a3-1b6c2b8fd866.png)
