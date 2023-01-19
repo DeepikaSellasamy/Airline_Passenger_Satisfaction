@@ -19,6 +19,8 @@ library(car)
 library(xgboost)
 
 #reading the data
+setwd("C:/Users/DEEPIKA/Downloads")
+airline=read.csv("airline.csv")
 
 summary(airline)
 str(airline_train)
