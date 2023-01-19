@@ -1,7 +1,4 @@
-
-setwd("C:/Users/DEEPIKA/Downloads")
-airline=read.csv("airline.csv")
-
+#Loading the required packages
 library(caret)
 library(rpart)
 library(rpart.plot)
@@ -21,6 +18,7 @@ library(lmtest)
 library(car)
 library(xgboost)
 
+#reading the data
 
 summary(airline)
 str(airline_train)
