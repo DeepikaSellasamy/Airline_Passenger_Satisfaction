@@ -30,7 +30,7 @@
 
 #### OBSERVATIONS:
 
-      * No.of loyal customer is higher than disloyal.      
+      * Number of loyal customer is higher than disloyal.      
         
       * But for the loyal customer also dissatisfaction level is high.
       
@@ -40,12 +40,8 @@
       
       * Gender doesn't play an important role in satisfaction men and women seems equally.
       
-      * Business class peoples are more satisfied and the least is eco plus.
+      * Business class peoples are more satisfied and the least is eco plus.      
       
-      * 1 customer is satisfied even after delay of 1300 minutes.
+      * Most passengers are satisfied with delay in departure when the distance is longer.
       
-      * Most passengers are okay with delay in departure when the distance is longer.
-      
-      * In business class higher no of dissatisfied passenger when baggage handling is <4.
-      
-      * And for other class even baggage handling is in good range but still passenger dissatisfied.
+      * In business class higher number of dissatisfied passenger when baggage handling is <4.
