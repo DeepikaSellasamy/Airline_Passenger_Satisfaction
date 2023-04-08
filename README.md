@@ -36,11 +36,11 @@
       
       * Majority of passengers are business traveler.
       
-      * Business travel peoples are more satisfied than personal travel.
+      *  60% of Business travel peoples are more satisfied than personal travel.
       
       * Gender doesn't play an important role in satisfaction men and women seems equally.
       
-      * Business class peoples are more satisfied and the least is eco plus.      
+      * 70% of Business class peoples are more satisfied and the least is eco plus.      
       
       * Most passengers are satisfied with delay in departure when the distance is longer.
       
