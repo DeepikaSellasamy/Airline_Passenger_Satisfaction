@@ -40,7 +40,7 @@
       
       * Gender doesn't play an important role in satisfaction men and women seems equally.
       
-      * 70% of Business class peoples are more satisfied and the least is eco plus.      
+      * 70% of Business class peoples are more satisfied and the least is eco .      
       
       * Depature delay is not a significant variable for passenger satisfaction.
       
