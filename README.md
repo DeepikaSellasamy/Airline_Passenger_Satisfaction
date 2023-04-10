@@ -42,6 +42,6 @@
       
       * 70% of Business class peoples are more satisfied and the least is eco plus.      
       
-      * Most passengers are satisfied with delay in departure when the distance is longer.
+      * Depature delay is not a significant variable for passenger satisfaction.
       
       * In business class higher number of dissatisfied passenger when baggage handling is <4.
